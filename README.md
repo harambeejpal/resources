@@ -104,6 +104,7 @@
 - [SurveyCTO](https://www.surveycto.com/)
   - And for coding advice on SCTO see the World Bank's Development Impact Evaluation (DIME) unit's set of resources [here](https://dimewiki.worldbank.org/wiki/SurveyCTO_Coding_Practices) 
 - Using Google Forms and R with the [googlesheets and googleformr packages](https://github.com/jennybc/googlesheets#what-the-hell-do-i-do-with-this)
+- [formr](https://formr.org)
 
 **Spatial data (more general)** 
   - [QGIS](http://www.qgis.org/en/site/) — “A Free and Open Source Geographic Information System” 
