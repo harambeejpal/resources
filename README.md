@@ -71,6 +71,7 @@
   - [styler](https://github.com/r-lib/styler)
 
 **Python** 
+- [The PySD Cookbook](https://pysd-cookbook.readthedocs.io/en/latest/index.html) "Simple recipes for powerful analysis of system dynamics models"
 - [R Interface to Python](https://rstudio.github.io/reticulate/index.html)
 - [Getting and Installing Python](https://ubc-mds.github.io/resources_pages/installation_instructions/#getting-and-installing-python)
 - [Learning Python](https://docs.python.org/3/) 
