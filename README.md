@@ -13,6 +13,7 @@
   - See also [SMSPortal](http://www.smsportal.co.za/#!home) (more rigid)
   - Bulk airtime purchases on [myairtime.co.za](https://myairtime.co.za/) (allows spread-sheet upload)
   - Recently seen on Random Help: [Telerivet](https://telerivet.com/), and [Echo Mobile](https://www.echomobile.org/public/main) 
+  - flickswith(https://www.flickswitch.co.za) -- manage airtime on multiple devices 
 - **Email** 
   - [G-sheets add-on](https://chrome.google.com/webstore/detail/mail-merge-with-attachmen/nifmcbjailaccmombpjjpijjbfoicppp?hl=en)
   - [MailChimp](https://mailchimp.com/)
