@@ -117,6 +117,7 @@
 Introduction to LATEX 2ε](https://tobi.oetiker.ch/lshort/lshort.pdf) by *Tobias Oetiker*,
 *Hubert Partl*, *Irene Hyna* and *Elisabeth Schlegl*
 - Try [Overleaf](https://www.overleaf.com/blog/654-overleaf-v2-launch-announcement#.W6ku-GgzbIU) if you're working with collaborators 
+- [Mathpix](https://mathpix.com) "Convert images to LaTeX"
 
 **Code Editors**
 - [Visual Studio](https://visualstudio.microsoft.com/)
