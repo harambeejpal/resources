@@ -143,29 +143,7 @@ Introduction to LATEX 2ε](https://tobi.oetiker.ch/lshort/lshort.pdf) by *Tobias
   - [...]
 
 ----------
-## 3. Twitter 
-> People to follow!
-- **Rstats/programming**
-  - [Mara Averick](https://twitter.com/dataandme)
-  - [Jenny Bryan](https://twitter.com/JennyBryan) 
-  - [Yihui Xie](https://twitter.com/xieyihui)
-  - [Julia Silge](https://twitter.com/juliasilge)
-  - [Jesse Maegan](https://twitter.com/kierisi)
-  - [Data Science Renee](https://twitter.com/BecomingDataSci)
-  - [We are R-Ladies](https://twitter.com/WeAreRLadies)
-  - [Maëlle Salmon](https://twitter.com/ma_salmon)  
-  - [rOpensci](https://twitter.com/rOpenSci)
-  - [...]
-- **Stata**
-  - [Stata](https://twitter.com/Stata)
-  - [...]
-- **J-PAL/research**
-  - [Tavneet Suri](https://twitter.com/SuriTavneet)
-  - [Rachel Glennerster](https://twitter.com/RunningREs)
-  - [...]
-
-----------
-## 4. Courses
+## 5. Courses
 - [Data Analysis for Social Scientists](https://www.edx.org/course/data-analysis-social-scientists-mitx-14-310x-2)
 - [DSCI 521: Computing Platforms for Data Science](https://github.com/UBC-MDS/public/tree/master/courses/521_platforms)
 - ["Chromebook Data Science - a free online data science program for anyone with a web browser."](https://simplystatistics.org/2018/10/01/chromebook-data-science-an-online-data-science-program-for-anyone-with-a-web-browser/)
@@ -177,7 +155,7 @@ Introduction to LATEX 2ε](https://tobi.oetiker.ch/lshort/lshort.pdf) by *Tobias
 
 ----------
 
-## 5. Other (Uncategorized)
+## 6. Other (Uncategorized)
 
 - [Setting up a data science “stack" full instructions + resources](https://ubc-mds.github.io/resources_pages/installation_instructions/) from the University of British Columbia’s Master of Data Science program. Great set-up guide! (git, pandoc, LaTeX, Make, Docker, R, &c., &c.) 
 - [Declaring and diagnosing research designs](https://blogs.worldbank.org/impactevaluations/declaring-and-diagnosing-research-designs)
@@ -205,6 +183,6 @@ Introduction to LATEX 2ε](https://tobi.oetiker.ch/lshort/lshort.pdf) by *Tobias
 Applications"](http://web.cs.ucla.edu/~kaoru/primer-ch4.pdf)
 - [Hernán MA, Robins JM (2019). "Causal Inference". Boca Raton: Chapman & Hall/CRC, forthcoming.](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 
-## 6. Dataviz (starting a new section)
+## 7. Dataviz (starting a new section)
 
 - [BBC Visual and Data Journalism cookbook](https://bbc.github.io/rcookbook/)
