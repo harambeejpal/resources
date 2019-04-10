@@ -182,6 +182,7 @@ Introduction to LATEX 2ε](https://tobi.oetiker.ch/lshort/lshort.pdf) by *Tobias
 "CAUSAL INFERENCE IN STATISTICS: A PRIMER", Chapter 4: "Counterfactuals and Their
 Applications"](http://web.cs.ucla.edu/~kaoru/primer-ch4.pdf)
 - [Hernán MA, Robins JM (2019). "Causal Inference". Boca Raton: Chapman & Hall/CRC, forthcoming.](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
+- [data.table and dplyr side-by-side](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/)
 
 ## 7. Dataviz (starting a new section)
 
