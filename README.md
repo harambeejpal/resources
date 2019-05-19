@@ -46,7 +46,6 @@
 > Whichever programming language you choose to use, here is some great advice on general good practice, building on the idea of “reproducible research”
 - ["Good enough practices in scientific computing"](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)  — minimum must dos, by *Greg Wilson*, *Jennifer Bryan*, and others
 - ["Practical Data Science for Stats"](https://peerj.com/collections/50-practicaldatascistats/) — collection of articles
-- ["RMarkdown Driven Development"](https://emilyriederer.netlify.com/post/rmarkdown-driven-development/) by *Emily Riederer* -- this really depends on your workflow, and your PIs. Usually our projects are built around Stata.
 
 **General resources**
 - [J-PAL "Software & Tools"](https://www.povertyactionlab.org/research-resources/software-and-tools)
@@ -69,7 +68,8 @@
 - [An introduction to R](http://colinfay.me/intro-to-r/) — intro to base R
 - [R Language Definition](https://cran.r-project.org/doc/manuals/r-release/R-lang.html#Introduction) by the R Core Team 
 
-- [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by *Yihui Xie*, *J. J. Allaire*, and *Garrett Grolemund*
+- See [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by *Yihui Xie*, *J. J. Allaire*, and *Garrett Grolemund*
+- ["RMarkdown Driven Development"](https://emilyriederer.netlify.com/post/rmarkdown-driven-development/) by *Emily Riederer* 
 
 **Dataviz in R**
 - [Data Visualization for Social Science: A practical introduction with R and ggplot2](http://socviz.co/index.html) — Note: more general than just R
