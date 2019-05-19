@@ -4,36 +4,41 @@
 ## 0. General Useful Things!
 - **Getting organized**  
   - [Dropbox Paper](https://www.dropbox.com/paper) -- I find this great for weekly agendas, notes or quick reports
-  - [Airtable](https://airtable.com/) — "Part spreadsheet, part database, and entirely flexible..."
+  - [Airtable](https://airtable.com/) — "Part spreadsheet, part database, and entirely flexible" -- I use this to track grants, hiring new staff members, &c. It integrates with Zapier, [JotForm](https://www.jotform.com), and other services. It's more flexibile and powerful than Google Sheets.
   - [Trello](https://trello.com/), see also [here](https://blog.trello.com/work-life-focus-trello-insider-guide-personal-productivity?hs_amp=true) and [here](https://blog.trello.com/project-management-power-ups?utm_source=newsletter&utm_medium=email&utm_campaign=trello-nov2018_newsletter1)
-  - [Zapier](https://zapier.com/) — “Connect Your Apps and Automate Workflows”, see also [IFTTT](https://ifttt.com/discover)
-  - [Slack](https://slack.com/) — "Where Work Happens"
-- **SMS and phone interactions (South Africa)** 
+  - [Zapier](https://zapier.com/) — “Connect Your Apps and Automate Workflows”, see also [IFTTT](https://ifttt.com/discover) -- I use this to automate repetitive tasks.
+  - [Slack](https://slack.com/) — "Where Work Happens".
+- **SMS and phone interactions** 
   - [EnageSpark](https://www.engagespark.com/) (flexible)
   - See also [SMSPortal](http://www.smsportal.co.za/#!home) (more rigid)
-  - Bulk airtime purchases on [myairtime.co.za](https://myairtime.co.za/) (allows spread-sheet upload)
+  - Bulk airtime purchases on [myairtime.co.za](https://myairtime.co.za/) (allows spread-sheet upload) [South Africa]
   - Recently seen on Random Help: [Telerivet](https://telerivet.com/), and [Echo Mobile](https://www.echomobile.org/public/main) 
   - [flickswitch](https://www.flickswitch.co.za) --- manage airtime on multiple devices 
 - **Email** 
-  - [G-sheets add-on](https://chrome.google.com/webstore/detail/mail-merge-with-attachmen/nifmcbjailaccmombpjjpijjbfoicppp?hl=en)
   - [MailChimp](https://mailchimp.com/)
   - See also [Streak](https://www.streak.com/) 
-  - [Boomerang for Gmail](https://www.boomeranggmail.com/)
+  - [Boomerang for Gmail](https://www.boomeranggmail.com/) -- may be obsolete soon.
 - **Websites** 
   - [Google Sites](https://sites.google.com/) — "Google Sites is a free and easy way to create and share webpages"
   - [Wix](https://www.wix.com) 
   - [Weebly](https://www.weebly.com) 
-- **Other**
+- **Surveys/data-collection**
+  - [SurveyCTO](https://www.surveycto.com/)
+  - And for coding advice on SCTO see the World Bank's Development Impact Evaluation (DIME) unit's set of resources [here](https://dimewiki.worldbank.org/wiki/SurveyCTO_Coding_Practices) 
+  - Using Google Forms and R with the [googlesheets and googleformr packages](https://github.com/jennybc/googlesheets#what-the-hell-do-i-do-with-this)
+  - [formr](https://formr.org)
+  - [Ona](https://ona.io/home/) 
+- **Misc**
   - ["Best Practices for Using Google Sheets in Your Data Project"](https://matthewlincoln.net/2018/03/26/best-practices-for-using-google-sheets-in-your-data-project.html) by *Matthew Lincoln*
   - [How to use Google Drive's version control](https://sites.google.com/site/scriptsexamples/home/announcements/named-versions-new-version-history-google-docs)
-  - [Google Fusion tables](https://support.google.com/fusiontables/answer/2571232) — "Fusion Tables is an experimental data visualization web application to gather, visualize, and share data tables” (Google Fusion tables will not be around for much longer though)
   - [Google's "Data studio"](https://marketingplatform.google.com/about/data-studio/)
   - [Octoparse](https://www.octoparse.com/) (webscraping, no programming required)
   - [OpenRefine](http://openrefine.org/) —  "A free, open source, powerful tool for working with messy data" (no programming required)
   - [Tables Generator](https://www.tablesgenerator.com) for creating simple Markdown and LaTeX tables interactively
   - [Google Dataset Search](https://toolbox.google.com/datasetsearch)
   - [Tableau (public)](https://public.tableau.com/en-us/s/) -- "Visualize and Share Your Data in Minutes—For Free"
-    
+  - [QGIS](http://www.qgis.org/en/site/) — “A Free and Open Source Geographic Information System” 
+  
 ----------
 ## 1. Programming 
 
@@ -41,36 +46,51 @@
 > Whichever programming language you choose to use, here is some great advice on general good practice, building on the idea of “reproducible research”
 - ["Good enough practices in scientific computing"](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)  — minimum must dos, by *Greg Wilson*, *Jennifer Bryan*, and others
 - ["Practical Data Science for Stats"](https://peerj.com/collections/50-practicaldatascistats/) — collection of articles
-- ["Tidy Data"](https://vita.had.co.nz/papers/tidy-data.pdf) by *Hadley Wickham*
-
+- ["RMarkdown Driven Development"](https://emilyriederer.netlify.com/post/rmarkdown-driven-development/) by *Emily Riederer* -- this really depends on your workflow, and your PIs. Usually our projects are built around Stata.
 **General resources**
 - [J-PAL "Software & Tools"](https://www.povertyactionlab.org/research-resources/software-and-tools)
 - [IPA "Research Resources"](https://www.poverty-action.org/researchers/research-resources)
-
+- Coming soon: J-PAL research resources, collection topic-specific articles 
+----------
 **Programming with R**
 - [Install base R](https://www.r-project.org/); then
-- [Install RStudio](https://www.rstudio.com/products/rstudio/download/)
-- See the [RStudio Cheat Sheet, and others](https://www.rstudio.com/resources/cheatsheets/#ide)
- - Learn R in R with [Swirl](http://swirlstats.com/) 
-- [R for data science](http://r4ds.had.co.nz/)  — intro to the tidyverse and coding with dplyr and pipes %>% by *Garrett Grolemund* and *Hadley Wickham* 
-- [An introduction to R](http://colinfay.me/intro-to-r/) — intro to base R
-- [Data Visualization for Social Science: A practical introduction with R and ggplot2](http://socviz.co/index.html) — Note: more general than just R
-- See also [R Graphics “Cookbook”](http://www.cookbook-r.com/Graphs/)
-- [The tidyverse style guide](http://style.tidyverse.org/) by *Hadley Wickham*
-- [Video resources](https://www.rstudio.com/resources/) from RStudio 
-- [Rstats on twitter](https://twitter.com/hashtag/rstats) 
-- [Jenny Bryan slides](https://speakerdeck.com/jennybc) — many useful things here
-- [R Language Definition](https://cran.r-project.org/doc/manuals/r-release/R-lang.html#Introduction) by the R Core Team 
-- [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by *Yihui Xie*, *J. J. Allaire*, and *Garrett Grolemund*
-- Trouble-shooting: Join [Stackoverflow](https://stackoverflow.com/) 
-- [The R Studio Community Page](https://community.rstudio.com/)
-- Reproducible examples ("reprex"): ["So you’ve been asked to make a reprex"](https://www.jessemaegan.com/post/so-you-ve-been-asked-to-make-a-reprex/) by *Jesse Mostipak*
-- ["Introduction to GIS with R: Spatial data with the sp and sf packages"](https://www.jessesadler.com/post/gis-with-r-intro/) by *Jesse Sadler*
-- Presentations -- [Xaringan](https://github.com/yihui/xaringan)
+- [Install RStudio UI](https://www.rstudio.com/products/rstudio/download/) -- highly recommended 
 - Useful RStudio add-ons
   - [datapasta](https://github.com/MilesMcBain/datapasta)
   - [styler](https://github.com/r-lib/styler)
+- Learn R in R with [Swirl](http://swirlstats.com/) 
+- See the [RStudio Cheat Sheet, and others](https://www.rstudio.com/resources/cheatsheets/#ide)
+- Read [R for data science](http://r4ds.had.co.nz/)  — intro to the tidyverse and coding with dplyr and pipes %>% by *Garrett Grolemund* and *Hadley Wickham* 
+- [The tidyverse style guide](http://style.tidyverse.org/) by *Hadley Wickham*
+- ["Tidy Data"](https://vita.had.co.nz/papers/tidy-data.pdf) by *Hadley Wickham*
+- I prefer the [tidyverse](https://www.tidyverse.org) approach to coding in R, but knowing base R is important  
+- [An introduction to R](http://colinfay.me/intro-to-r/) — intro to base R
+- [R Language Definition](https://cran.r-project.org/doc/manuals/r-release/R-lang.html#Introduction) by the R Core Team 
+- [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by *Yihui Xie*, *J. J. Allaire*, and *Garrett Grolemund*
+**Dataviz in R**
+- [Data Visualization for Social Science: A practical introduction with R and ggplot2](http://socviz.co/index.html) — Note: more general than just R
+- See also [R Graphics “Cookbook”](http://www.cookbook-r.com/Graphs/)
+- [BBC Visual and Data Journalism cookbook](https://bbc.github.io/rcookbook/)
+**Trouble-shooting in R**
+- Trouble-shooting: Join/search [Stackoverflow](https://stackoverflow.com/) 
+- [The R Studio Community Page](https://community.rstudio.com/)
+- Reproducible examples ("reprex"): ["So you’ve been asked to make a reprex"](https://www.jessemaegan.com/post/so-you-ve-been-asked-to-make-a-reprex/) by *Jesse Mostipak*
+**Misc R**
+- [Video resources](https://www.rstudio.com/resources/) from RStudio 
+- [Rstats on twitter](https://twitter.com/hashtag/rstats) 
+- [Jenny Bryan slides](https://speakerdeck.com/jennybc) — many useful things here
+- ["Introduction to GIS with R: Spatial data with the sp and sf packages"](https://www.jessesadler.com/post/gis-with-r-intro/)
 
+----------
+**Git**
+- ["Excuse me, do you have a moment to talk about version control?"](https://peerj.com/preprints/3159/) by *Jennifer Bryan*
+- [Happy with Git (focus is on R here)](http://happygitwithr.com/) by *Jennifer Bryan*
+- [Git in Practice](https://github.com/GitInPractice/GitInPractice#readme) by *Mike McQuaid*
+- [Git troubleshooting](http://justinhileman.info/article/git-pretty/?utm_content=buffer125f2&utm_medium) 
+- Git with a shared Dropbox folder, [see here](http://jetheis.com/blog/2013/02/17/using-dropbox-as-a-private-github/)
+- [Learning Lab](https://lab.github.com/courses)
+
+----------
 **Python** 
 - [The PySD Cookbook](https://pysd-cookbook.readthedocs.io/en/latest/index.html) "Simple recipes for powerful analysis of system dynamics models"
 - [R Interface to Python](https://rstudio.github.io/reticulate/index.html)
@@ -82,6 +102,7 @@
 - [Python graph gallery](https://python-graph-gallery.com/) 
 - [Data analysis in Python](http://www.data-analysis-in-python.org/index.html)  
 
+----------
 **Stata**
 - [World Bank's GitHub page](https://github.com/worldbank/stata/tree/master/docs)
   - [Ietoolkit](https://worldbank.github.io/ietoolkit/) — Stata Commands for Impact Evaluations
@@ -94,35 +115,19 @@
 - [Dictionary: Stata to R](https://github.com/EconometricsBySimulation/RStata/wiki/Dictionary:-Stata-to-R)
 - [The Stata Lasso Page](https://statalasso.github.io/slides/)
 
-**Git**
-- ["Excuse me, do you have a moment to talk about version control?"](https://peerj.com/preprints/3159/) by *Jennifer Bryan*
-- [Happy with Git (focus is on R here)](http://happygitwithr.com/) by *Jennifer Bryan*
-- [Git in Practice](https://github.com/GitInPractice/GitInPractice#readme) by *Mike McQuaid*
-- [Git troubleshooting](http://justinhileman.info/article/git-pretty/?utm_content=buffer125f2&utm_medium) 
-- Git with a shared Dropbox folder, [see here](http://jetheis.com/blog/2013/02/17/using-dropbox-as-a-private-github/)
-- [Learning Lab](https://lab.github.com/courses)
-
-**Surveys/data-collection**
-- [SurveyCTO](https://www.surveycto.com/)
-  - And for coding advice on SCTO see the World Bank's Development Impact Evaluation (DIME) unit's set of resources [here](https://dimewiki.worldbank.org/wiki/SurveyCTO_Coding_Practices) 
-- Using Google Forms and R with the [googlesheets and googleformr packages](https://github.com/jennybc/googlesheets#what-the-hell-do-i-do-with-this)
-- [formr](https://formr.org)
-- [Ona](https://ona.io/home/) 
-
-**Spatial data (more general)** 
-  - [QGIS](http://www.qgis.org/en/site/) — “A Free and Open Source Geographic Information System” 
-  
- **LaTeX**
+----------
+**LaTeX**
  - [The Not So Short
 Introduction to LATEX 2ε](https://tobi.oetiker.ch/lshort/lshort.pdf) by *Tobias Oetiker*,
 *Hubert Partl*, *Irene Hyna* and *Elisabeth Schlegl*
 - Try [Overleaf](https://www.overleaf.com/blog/654-overleaf-v2-launch-announcement#.W6ku-GgzbIU) if you're working with collaborators 
 - [Mathpix](https://mathpix.com) "Convert images to LaTeX"
 
+----------
+
 **Code Editors**
 - [Visual Studio](https://visualstudio.microsoft.com/)
 - [Atom](https://atom.io/)
-- [...]
 
 ----------
 ## 2. Fun  
@@ -130,20 +135,18 @@ Introduction to LATEX 2ε](https://tobi.oetiker.ch/lshort/lshort.pdf) by *Tobias
   - [J-PAL newsfeed](https://www.povertyactionlab.org/news)
   - [VoxDev](https://voxdev.org/)
   - [Development Impact](http://blogs.worldbank.org/impactevaluations/)
-  - [Running Randomized Evaluations](http://runningres.com/) — Rachel Glennerster's blog 
   - [R-Bloggers](https://www.r-bloggers.com/)
   - [Yihui Xie's blog](https://yihui.name/en/)
-   - ["data-scribers"](https://data-scribers.mikewk.com/)
-  - [...]
+  - [Running Randomized Evaluations](http://runningres.com/) — Rachel Glennerster's blog 
 - **Podcasts**
-  - [podcast] [Becoming a data-scientist podcast](https://www.becomingadatascientist.com/category/podcast/) 
-  - [podcast] [Not so standard deviations](http://nssdeviations.com/) 
-  - [podcast] [Linear Digressions](http://lineardigressions.com/)
-  - [podcast] [Partially Derivative](http://partiallyderivative.com/)
-  - [...]
+  - [Not so standard deviations](http://nssdeviations.com/) 
+  - [Data Stories] (http://datastori.es)
+  - [Becoming a data-scientist podcast](https://www.becomingadatascientist.com/category/podcast/) 
+  - [Linear Digressions](http://lineardigressions.com/)
+  - [[Credibly Curious](https://soundcloud.com/crediblycurious)
 
 ----------
-## 5. Courses
+## 3. Courses
 - [Data Analysis for Social Scientists](https://www.edx.org/course/data-analysis-social-scientists-mitx-14-310x-2)
 - [DSCI 521: Computing Platforms for Data Science](https://github.com/UBC-MDS/public/tree/master/courses/521_platforms)
 - ["Chromebook Data Science - a free online data science program for anyone with a web browser."](https://simplystatistics.org/2018/10/01/chromebook-data-science-an-online-data-science-program-for-anyone-with-a-web-browser/)
@@ -155,11 +158,10 @@ Introduction to LATEX 2ε](https://tobi.oetiker.ch/lshort/lshort.pdf) by *Tobias
 
 ----------
 
-## 6. Other (Uncategorized)
+## 4. Other (Uncategorized)
 
 - [Setting up a data science “stack" full instructions + resources](https://ubc-mds.github.io/resources_pages/installation_instructions/) from the University of British Columbia’s Master of Data Science program. Great set-up guide! (git, pandoc, LaTeX, Make, Docker, R, &c., &c.) 
-- [Declaring and diagnosing research designs](https://blogs.worldbank.org/impactevaluations/declaring-and-diagnosing-research-designs)
-  - See the [website](https://declaredesign.org/) — "DeclareDesign is an R package full of tools to help researchers “declare” and “diagnose” designs before implementing them."
+- [Declaring and diagnosing research designs](https://blogs.worldbank.org/impactevaluations/declaring-and-diagnosing-research-designs). See the [website](https://declaredesign.org/) — "DeclareDesign is an R package full of tools to help researchers “declare” and “diagnose” designs before implementing them."
 - Build regular expressions interactively with [RegEXr](https://regexr.com/)  
 - ["Packaging data analytical work reproducibly using R (and friends)"](https://peerj.com/preprints/3192/) in *PeerJ Preprints*
 - ["Prime Hints For Running A Data Project In R"](https://kkulma.github.io/2018-03-18-Prime-Hints-for-Running-a-data-project-in-R/) by *Kasia Kulma*
@@ -183,7 +185,3 @@ Introduction to LATEX 2ε](https://tobi.oetiker.ch/lshort/lshort.pdf) by *Tobias
 Applications"](http://web.cs.ucla.edu/~kaoru/primer-ch4.pdf)
 - [Hernán MA, Robins JM (2019). "Causal Inference". Boca Raton: Chapman & Hall/CRC, forthcoming.](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 - [data.table and dplyr side-by-side](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/)
-
-## 7. Dataviz (starting a new section)
-
-- [BBC Visual and Data Journalism cookbook](https://bbc.github.io/rcookbook/)
