@@ -94,7 +94,9 @@
 - [Git in Practice](https://github.com/GitInPractice/GitInPractice#readme) by *Mike McQuaid*
 - [Git troubleshooting](http://justinhileman.info/article/git-pretty/?utm_content=buffer125f2&utm_medium) 
 - Git with a shared Dropbox folder, [see here](http://jetheis.com/blog/2013/02/17/using-dropbox-as-a-private-github/)
-- [Learning Lab](https://lab.github.com/courses)
+- GitHub [Learning Lab](https://lab.github.com/courses)
+- [GitLab](https://about.gitlab.com)
+- ["Setup Git RStudio GitLab"](https://gitlab.com/HeidiSeibold/setup-git-rstudio-gitlab) by *Heidi Seibold*
 
 ----------
 **Python** 
