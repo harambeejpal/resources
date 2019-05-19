@@ -67,8 +67,9 @@
 > I prefer the [tidyverse](https://www.tidyverse.org) approach to coding in R, but knowing base R is important  
 - [An introduction to R](http://colinfay.me/intro-to-r/) — intro to base R
 - [R Language Definition](https://cran.r-project.org/doc/manuals/r-release/R-lang.html#Introduction) by the R Core Team 
-
+> For writing, sharing use R Markdown
 - See [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by *Yihui Xie*, *J. J. Allaire*, and *Garrett Grolemund*
+- [knitcitations](https://github.com/cboettig/knitcitations) -- dynamic citations on R Markdown
 - ["RMarkdown Driven Development"](https://emilyriederer.netlify.com/post/rmarkdown-driven-development/) by *Emily Riederer* 
 
 **Dataviz in R**
@@ -80,6 +81,7 @@
 - Trouble-shooting: Join/search [Stackoverflow](https://stackoverflow.com/) 
 - [The R Studio Community Page](https://community.rstudio.com/)
 - Reproducible examples ("reprex"): ["So you’ve been asked to make a reprex"](https://www.jessemaegan.com/post/so-you-ve-been-asked-to-make-a-reprex/) by *Jesse Mostipak*
+- ["How Do I?"](https://smach.github.io/R4JournalismBook/HowDoI.html)by *Sharon Machlish*
 
 **Misc R**
 - [Video resources](https://www.rstudio.com/resources/) from RStudio 
@@ -179,7 +181,6 @@ Introduction to LATEX 2ε](https://tobi.oetiker.ch/lshort/lshort.pdf) by *Tobias
 - ["Intro to set theory in R"](http://snip.ly/zxtnh#http://www.aaronschlegel.com/introduction-set-theory-r/)
 - ["String Encoding in R"](https://kevinushey.github.io/blog/2018/02/21/string-encoding-and-r/)
 - ["R syntax comparison" cheat sheet](http://www.science.smith.edu/~amcnamara/Syntax-cheatsheet.pdf)
-- ["Excuse me, do you have a moment to talk about version control?"](https://peerj.com/preprints/3159/) in *PeerJ Preprints*
 - ["Vectors and lists"](https://jennybc.github.io/purrr-tutorial/bk00_vectors-and-lists.html#atomic_vectors) by *Jenny Bryan*
 - ["15 Types of Regression you should know"](https://www.r-bloggers.com/15-types-of-regression-you-should-know/)
 - [Reproducible Research with Stata using version control, GitHub, and MarkDoc](https://www.stata.com/meeting/switzerland16/slides/haghish-switzerland16.pdf) 
@@ -187,9 +188,9 @@ Introduction to LATEX 2ε](https://tobi.oetiker.ch/lshort/lshort.pdf) by *Tobias
 - ["The workflowr R package: A framework for reproducible and collaborative data science"](https://jdblischak.github.io/workflowr/), slides [here](https://speakerdeck.com/jdblischak/the-workflowr-r-package-a-framework-for-reproducible-and-collaborative-data-science?slide=25) from John Blischak's useR! 2018 talk
 - [Demystifying data science videos](https://www.thisismetis.com/demystifying-data-science-recordings) 
 - ["Generating data to explore the myriad causal effects that can be estimated in observational data analysis"](https://www.rdatagen.net/post/generating-data-to-explore-the-myriad-causal-effects/)
-- [knitcitations](https://github.com/cboettig/knitcitations) -- dynamic citations on R Markdown
 - [Judea Pearl, Madelyn Glymour, Nicholas P. Jewell
 "CAUSAL INFERENCE IN STATISTICS: A PRIMER", Chapter 4: "Counterfactuals and Their
 Applications"](http://web.cs.ucla.edu/~kaoru/primer-ch4.pdf)
 - [Hernán MA, Robins JM (2019). "Causal Inference". Boca Raton: Chapman & Hall/CRC, forthcoming.](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 - [data.table and dplyr side-by-side](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/)
+- ["From Data to viz"](https://www.data-to-viz.com)
