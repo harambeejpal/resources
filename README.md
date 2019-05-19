@@ -148,10 +148,10 @@ Introduction to LATEX 2ε](https://tobi.oetiker.ch/lshort/lshort.pdf) by *Tobias
   - [Running Randomized Evaluations](http://runningres.com/) — Rachel Glennerster's blog 
 - **Podcasts**
   - [Not so standard deviations](http://nssdeviations.com/) 
-  - [Data Stories] (http://datastori.es)
+  - [Data Stories](http://datastori.es)
   - [Becoming a data-scientist podcast](https://www.becomingadatascientist.com/category/podcast/) 
   - [Linear Digressions](http://lineardigressions.com/)
-  - [[Credibly Curious](https://soundcloud.com/crediblycurious)
+  - [Credibly Curious](https://soundcloud.com/crediblycurious)
 
 ----------
 ## 3. Courses
