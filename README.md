@@ -47,6 +47,7 @@
 - ["Good enough practices in scientific computing"](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)  — minimum must dos, by *Greg Wilson*, *Jennifer Bryan*, and others
 - ["Practical Data Science for Stats"](https://peerj.com/collections/50-practicaldatascistats/) — collection of articles
 - ["RMarkdown Driven Development"](https://emilyriederer.netlify.com/post/rmarkdown-driven-development/) by *Emily Riederer* -- this really depends on your workflow, and your PIs. Usually our projects are built around Stata.
+
 **General resources**
 - [J-PAL "Software & Tools"](https://www.povertyactionlab.org/research-resources/software-and-tools)
 - [IPA "Research Resources"](https://www.poverty-action.org/researchers/research-resources)
