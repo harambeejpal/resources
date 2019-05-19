@@ -64,18 +64,23 @@
 - Read [R for data science](http://r4ds.had.co.nz/)  — intro to the tidyverse and coding with dplyr and pipes %>% by *Garrett Grolemund* and *Hadley Wickham* 
 - [The tidyverse style guide](http://style.tidyverse.org/) by *Hadley Wickham*
 - ["Tidy Data"](https://vita.had.co.nz/papers/tidy-data.pdf) by *Hadley Wickham*
-- I prefer the [tidyverse](https://www.tidyverse.org) approach to coding in R, but knowing base R is important  
+ 
+> I prefer the [tidyverse](https://www.tidyverse.org) approach to coding in R, but knowing base R is important  
 - [An introduction to R](http://colinfay.me/intro-to-r/) — intro to base R
 - [R Language Definition](https://cran.r-project.org/doc/manuals/r-release/R-lang.html#Introduction) by the R Core Team 
+
 - [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by *Yihui Xie*, *J. J. Allaire*, and *Garrett Grolemund*
+
 **Dataviz in R**
 - [Data Visualization for Social Science: A practical introduction with R and ggplot2](http://socviz.co/index.html) — Note: more general than just R
 - See also [R Graphics “Cookbook”](http://www.cookbook-r.com/Graphs/)
 - [BBC Visual and Data Journalism cookbook](https://bbc.github.io/rcookbook/)
+
 **Trouble-shooting in R**
 - Trouble-shooting: Join/search [Stackoverflow](https://stackoverflow.com/) 
 - [The R Studio Community Page](https://community.rstudio.com/)
 - Reproducible examples ("reprex"): ["So you’ve been asked to make a reprex"](https://www.jessemaegan.com/post/so-you-ve-been-asked-to-make-a-reprex/) by *Jesse Mostipak*
+
 **Misc R**
 - [Video resources](https://www.rstudio.com/resources/) from RStudio 
 - [Rstats on twitter](https://twitter.com/hashtag/rstats) 
