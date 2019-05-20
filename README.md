@@ -6,8 +6,9 @@
   - [Dropbox Paper](https://www.dropbox.com/paper) -- I find this great for weekly agendas, notes or quick reports
   - [Airtable](https://airtable.com/) — "Part spreadsheet, part database, and entirely flexible" -- I use this to track grants, hiring new staff members, &c. It integrates with Zapier, [JotForm](https://www.jotform.com), and other services. It's more flexibile and powerful than Google Sheets.
   - [Trello](https://trello.com/), see also [here](https://blog.trello.com/work-life-focus-trello-insider-guide-personal-productivity?hs_amp=true) and [here](https://blog.trello.com/project-management-power-ups?utm_source=newsletter&utm_medium=email&utm_campaign=trello-nov2018_newsletter1)
+  - [Asana](https://asana.com/)
   - [Zapier](https://zapier.com/) — “Connect Your Apps and Automate Workflows”, see also [IFTTT](https://ifttt.com/discover) -- I use this to automate repetitive tasks.
-  - [Slack](https://slack.com/) — "Where Work Happens".
+  - [Slack](https://slack.com/) — "Where Work Happens"
 - **SMS and phone interactions** 
   - [EnageSpark](https://www.engagespark.com/) (flexible)
   - See also [SMSPortal](http://www.smsportal.co.za/#!home) (more rigid)
@@ -17,7 +18,8 @@
 - **Email** 
   - [MailChimp](https://mailchimp.com/)
   - See also [Streak](https://www.streak.com/) 
-  - [Boomerang for Gmail](https://www.boomeranggmail.com/) -- may be obsolete soon.
+  - [Boomerang for Gmail](https://www.boomeranggmail.com/) -- may be obsolete soon
+  - [Calendly](https://calendly.com/) --- for scheduling meeting slots, for say RA hiring 
 - **Websites** 
   - [Google Sites](https://sites.google.com/) — "Google Sites is a free and easy way to create and share webpages"
   - [Wix](https://www.wix.com) 
