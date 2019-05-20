@@ -126,6 +126,7 @@
 - [Stata Cheatsheets](https://geocenter.github.io/StataTraining/portfolio/01_resource/) 
 - [Dictionary: Stata to R](https://github.com/EconometricsBySimulation/RStata/wiki/Dictionary:-Stata-to-R)
 - [The Stata Lasso Page](https://statalasso.github.io/slides/)
+- [reghdfe](http://scorreia.com/software/reghdfe/) -- Linear Models With Many Levels of Fixed Effects
 
 ----------
 **LaTeX**
