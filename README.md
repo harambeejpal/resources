@@ -113,6 +113,7 @@
 - [Statistics in Python](https://people.duke.edu/~ccc14/sta-663/IntroductionToPythonSolutions.html) 
 - [Python graph gallery](https://python-graph-gallery.com/) 
 - [Data analysis in Python](http://www.data-analysis-in-python.org/index.html)  
+- ["Automate the Boring Stuff with Python"](http://automatetheboringstuff.com)
 
 ----------
 **Stata**
