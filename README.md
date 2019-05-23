@@ -53,6 +53,7 @@
 - [J-PAL "Software & Tools"](https://www.povertyactionlab.org/research-resources/software-and-tools)
 - [IPA "Research Resources"](https://www.poverty-action.org/researchers/research-resources)
 - Coming soon: J-PAL research resources, collection topic-specific articles 
+- [Setting up a data science “stack" full instructions + resources](https://ubc-mds.github.io/resources_pages/installation_instructions/) from the University of British Columbia’s Master of Data Science program. Great set-up guide! (git, pandoc, LaTeX, Make, Docker, R, &c., &c.)
 ----------
 **Programming with R**
 - [Install base R](https://www.r-project.org/); then
@@ -174,7 +175,6 @@ Introduction to LATEX 2ε](https://tobi.oetiker.ch/lshort/lshort.pdf) by *Tobias
 
 ## 4. Other (Uncategorized)
 
-- [Setting up a data science “stack" full instructions + resources](https://ubc-mds.github.io/resources_pages/installation_instructions/) from the University of British Columbia’s Master of Data Science program. Great set-up guide! (git, pandoc, LaTeX, Make, Docker, R, &c., &c.) 
 - [Declaring and diagnosing research designs](https://blogs.worldbank.org/impactevaluations/declaring-and-diagnosing-research-designs). See the [website](https://declaredesign.org/) — "DeclareDesign is an R package full of tools to help researchers “declare” and “diagnose” designs before implementing them."
 - Build regular expressions interactively with [RegEXr](https://regexr.com/)  
 - ["Packaging data analytical work reproducibly using R (and friends)"](https://peerj.com/preprints/3192/) in *PeerJ Preprints*
