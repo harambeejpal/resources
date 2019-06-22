@@ -199,3 +199,4 @@ Applications"](http://web.cs.ucla.edu/~kaoru/primer-ch4.pdf)
 - [data.table and dplyr side-by-side](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/)
 - ["From Data to viz"](https://www.data-to-viz.com)
 - ["All our ideas"](https://www.allourideas.org) --- to look into
+- ["Empirica"](https://empirica.ly) --- to look into
