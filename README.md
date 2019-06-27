@@ -200,3 +200,4 @@ Applications"](http://web.cs.ucla.edu/~kaoru/primer-ch4.pdf)
 - ["From Data to viz"](https://www.data-to-viz.com)
 - ["All our ideas"](https://www.allourideas.org) --- to look into
 - ["Empirica"](https://empirica.ly) --- to look into
+- ["xaringan"](https://github.com/yihui/xaringan) --- alternative way of generating slides in R
