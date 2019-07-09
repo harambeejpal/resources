@@ -5,8 +5,8 @@
 - **Getting organized**  
   - [Dropbox Paper](https://www.dropbox.com/paper) -- I find this great for weekly agendas, notes or quick reports
   - [Airtable](https://airtable.com/) — "Part spreadsheet, part database, and entirely flexible" -- I use this to track grants, hiring new staff members, &c. It integrates with Zapier, [JotForm](https://www.jotform.com), and other services. It's more flexibile and powerful than Google Sheets.
-  - [Trello](https://trello.com/), see also [here](https://blog.trello.com/work-life-focus-trello-insider-guide-personal-productivity?hs_amp=true) and [here](https://blog.trello.com/project-management-power-ups?utm_source=newsletter&utm_medium=email&utm_campaign=trello-nov2018_newsletter1)
-  - [Asana](https://asana.com/)
+  - [Trello](https://trello.com/), see also [here](https://blog.trello.com/work-life-focus-trello-insider-guide-personal-productivity?hs_amp=true) and [here](https://blog.trello.com/project-management-power-ups?utm_source=newsletter&utm_medium=email&utm_campaign=trello-nov2018_newsletter1). See also the [gmail add-on](https://help.trello.com/article/1120-trello-for-gmail-add-on)
+  - [Asana](https://asana.com/) -- see also the [gmail add-on](https://asana.com/guide/help/api/gmail-add-on)
   - [Zapier](https://zapier.com/) — “Connect Your Apps and Automate Workflows”, see also [IFTTT](https://ifttt.com/discover) -- I use this to automate repetitive tasks.
   - [Slack](https://slack.com/) — "Where Work Happens"
 - **SMS and phone interactions** 
