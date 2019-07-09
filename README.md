@@ -3,11 +3,11 @@
 🐦 
 ## 0. General Useful Things!
 - **Getting organized**  
-  - [Dropbox Paper](https://www.dropbox.com/paper) --- I find this great for weekly agendas, notes or quick reports
-  - [Airtable](https://airtable.com/)--- "Part spreadsheet, part database, and entirely flexible". I use this to track grants, hiring new staff members, &c. It integrates with Zapier, [JotForm](https://www.jotform.com), and other services. It's more flexibile and powerful than Google Sheets.
+  - [Dropbox Paper](https://www.dropbox.com/paper). I find this great for weekly agendas, notes or quick reports
+  - [Airtable](https://airtable.com/) "Part spreadsheet, part database, and entirely flexible". I use this to track grants, hiring new staff members, &c. It integrates with Zapier, [JotForm](https://www.jotform.com), and other services. It's more flexibile and powerful than Google Sheets.
   - [Trello](https://trello.com/), see also ["Find Work-Life Focus: A Trello Insider's Guide To Personal Productivity"](https://blog.trello.com/work-life-focus-trello-insider-guide-personal-productivity?hs_amp=true) and ["How To Become A Project Management Master With Trello"](https://blog.trello.com/project-management-power-ups). The [Gmail add-on](https://help.trello.com/article/1120-trello-for-gmail-add-on) is also useful
-  - [Asana](https://asana.com/) --- see also the [Gmail add-on](https://asana.com/guide/help/api/gmail-add-on)
-  - [Zapier](https://zapier.com/) —-- “Connect Your Apps and Automate Workflows”, see also [IFTTT](https://ifttt.com/discover). I use this to automate repetitive tasks.
+  - [Asana](https://asana.com/). See also the [Gmail add-on](https://asana.com/guide/help/api/gmail-add-on)
+  - [Zapier](https://zapier.com/) “Connect Your Apps and Automate Workflows”, see also [IFTTT](https://ifttt.com/discover). I use this to automate repetitive tasks.
   - [Slack](https://slack.com/) "Where Work Happens". Useful for coordinating discussions and todos around themes/topics on a project with a large-ish team  
 - **SMS and phone interactions** 
   - [EnageSpark](https://www.engagespark.com/) (flexible)
