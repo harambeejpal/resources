@@ -8,18 +8,18 @@
   - [Trello](https://trello.com/), see also ["Find Work-Life Focus: A Trello Insider's Guide To Personal Productivity"](https://blog.trello.com/work-life-focus-trello-insider-guide-personal-productivity?hs_amp=true) and ["How To Become A Project Management Master With Trello"](https://blog.trello.com/project-management-power-ups). The [Gmail add-on](https://help.trello.com/article/1120-trello-for-gmail-add-on) is also useful
   - [Asana](https://asana.com/). See also the [Gmail add-on](https://asana.com/guide/help/api/gmail-add-on)
   - [Zapier](https://zapier.com/) “Connect Your Apps and Automate Workflows”, see also [IFTTT](https://ifttt.com/discover). I use this to automate repetitive tasks.
-  - [Slack](https://slack.com/) "Where Work Happens". Useful for coordinating discussions and todos around themes/topics on a project with a large-ish team  
+  - [Slack](https://slack.com/) "Where Work Happens". Useful for coordinating discussions and todos around themes/topics on a project with a large-ish team. I think Slack can very very distracting/scattered though.  
+- **Email/comms** 
+  - [MailChimp](https://mailchimp.com/)
+  - Previously had Streak and Boomerang here, but just not sure about them anymore
+  - ["How to ask good questions"](https://jvns.ca/blog/good-questions/) by *Julia Evans*
+  - ["Do you have time for a quick chat?"](https://medium.com/@treycausey/do-you-have-time-for-a-quick-chat-c3f7e46de89d) by *Trey Causey*
 - **SMS and phone interactions** 
   - [EnageSpark](https://www.engagespark.com/) (flexible)
   - See also [SMSPortal](http://www.smsportal.co.za/#!home) (more rigid)
   - Bulk airtime purchases on [myairtime.co.za](https://myairtime.co.za/) (allows spread-sheet upload) [South Africa]
   - Recently seen on Random Help: [Telerivet](https://telerivet.com/), and [Echo Mobile](https://www.echomobile.org/public/main) 
   - [flickswitch](https://www.flickswitch.co.za) to manage airtime on multiple devices 
-- **Email** 
-  - [MailChimp](https://mailchimp.com/)
-  - See also [Streak](https://www.streak.com/) 
-  - [Boomerang for Gmail](https://www.boomeranggmail.com/) -- may be obsolete soon
-  - [Calendly](https://calendly.com/) --- for scheduling meeting slots, for say RA hiring 
 - **Websites** 
   - [Google Sites](https://sites.google.com/) — "Google Sites is a free and easy way to create and share webpages"
   - [Wix](https://www.wix.com) 
