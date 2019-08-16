@@ -21,7 +21,7 @@
   - Recently seen on Random Help: [Telerivet](https://telerivet.com/), and [Echo Mobile](https://www.echomobile.org/public/main) 
   - [flickswitch](https://www.flickswitch.co.za) to manage airtime on multiple devices 
 - **Websites** 
-  - [Google Sites](https://sites.google.com/) — "Google Sites is a free and easy way to create and share webpages"
+  - [Google Sites](https://sites.google.com/) "Google Sites is a free and easy way to create and share webpages"
   - [Wix](https://www.wix.com) 
   - [Weebly](https://www.weebly.com) 
 - **Surveys/data-collection**
@@ -35,19 +35,19 @@
   - [How to use Google Drive's version control](https://sites.google.com/site/scriptsexamples/home/announcements/named-versions-new-version-history-google-docs)
   - [Google's "Data studio"](https://marketingplatform.google.com/about/data-studio/)
   - [Octoparse](https://www.octoparse.com/) (webscraping, no programming required)
-  - [OpenRefine](http://openrefine.org/) —  "A free, open source, powerful tool for working with messy data" (no programming required)
+  - [OpenRefine](http://openrefine.org/) "A free, open source, powerful tool for working with messy data" (no programming required)
   - [Tables Generator](https://www.tablesgenerator.com) for creating simple Markdown and LaTeX tables interactively
   - [Google Dataset Search](https://toolbox.google.com/datasetsearch)
-  - [Tableau (public)](https://public.tableau.com/en-us/s/) -- "Visualize and Share Your Data in Minutes—For Free"
-  - [QGIS](http://www.qgis.org/en/site/) — “A Free and Open Source Geographic Information System” 
+  - [Tableau (public)](https://public.tableau.com/en-us/s/) "Visualize and Share Your Data in Minutes—For Free"
+  - [QGIS](http://www.qgis.org/en/site/) “A Free and Open Source Geographic Information System” 
   
 ----------
 ## 1. Programming 
 
 **General advice** 
 > Whichever programming language you choose to use, here is some great advice on general good practice, building on the idea of “reproducible research”
-- ["Good enough practices in scientific computing"](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)  — minimum must dos, by *Greg Wilson*, *Jennifer Bryan*, and others
-- ["Practical Data Science for Stats"](https://peerj.com/collections/50-practicaldatascistats/) — collection of articles
+- ["Good enough practices in scientific computing"](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510). Minimum must dos, by *Greg Wilson*, *Jennifer Bryan*, and others
+- ["Practical Data Science for Stats"](https://peerj.com/collections/50-practicaldatascistats/)
 
 **General resources**
 - [J-PAL "Software & Tools"](https://www.povertyactionlab.org/research-resources/software-and-tools)
@@ -57,22 +57,22 @@
 ----------
 **Programming with R**
 - [Install base R](https://www.r-project.org/); then
-- [Install RStudio UI](https://www.rstudio.com/products/rstudio/download/) -- highly recommended 
+- [Install RStudio UI](https://www.rstudio.com/products/rstudio/download/) (highly recommended) 
 - Useful RStudio add-ons
   - [datapasta](https://github.com/MilesMcBain/datapasta)
   - [styler](https://github.com/r-lib/styler)
 - Learn R in R with [Swirl](http://swirlstats.com/) 
 - See the [RStudio Cheat Sheet, and others](https://www.rstudio.com/resources/cheatsheets/#ide)
-- Read [R for data science](http://r4ds.had.co.nz/)  — intro to the tidyverse and coding with dplyr and pipes %>% by *Garrett Grolemund* and *Hadley Wickham* 
+- Read [R for data science](http://r4ds.had.co.nz/). Intro to the tidyverse and coding with dplyr and pipes %>% by *Garrett Grolemund* and *Hadley Wickham* 
 - [The tidyverse style guide](http://style.tidyverse.org/) by *Hadley Wickham*
 - ["Tidy Data"](https://vita.had.co.nz/papers/tidy-data.pdf) by *Hadley Wickham*
  
 > I prefer the [tidyverse](https://www.tidyverse.org) approach to coding in R, but knowing base R is important  
-- [An introduction to R](http://colinfay.me/intro-to-r/) — intro to base R
+- [An introduction to R](http://colinfay.me/intro-to-r/). Intro to base R
 - [R Language Definition](https://cran.r-project.org/doc/manuals/r-release/R-lang.html#Introduction) by the R Core Team 
 > For writing, sharing use R Markdown
 - See [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) by *Yihui Xie*, *J. J. Allaire*, and *Garrett Grolemund*
-- [knitcitations](https://github.com/cboettig/knitcitations) -- dynamic citations on R Markdown
+- [knitcitations](https://github.com/cboettig/knitcitations). Dynamic citations on R Markdown
 - ["RMarkdown Driven Development"](https://emilyriederer.netlify.com/post/rmarkdown-driven-development/) by *Emily Riederer* 
 
 **Dataviz in R**
@@ -89,7 +89,7 @@
 **Misc R**
 - [Video resources](https://www.rstudio.com/resources/) from RStudio 
 - [Rstats on twitter](https://twitter.com/hashtag/rstats) 
-- [Jenny Bryan slides](https://speakerdeck.com/jennybc) — many useful things here
+- [Jenny Bryan slides](https://speakerdeck.com/jennybc). Many useful things here
 - ["Introduction to GIS with R: Spatial data with the sp and sf packages"](https://www.jessesadler.com/post/gis-with-r-intro/)
 
 ----------
@@ -119,7 +119,7 @@
 ----------
 **Stata**
 - [World Bank's GitHub page](https://github.com/worldbank/stata/tree/master/docs)
-  - [Ietoolkit](https://worldbank.github.io/ietoolkit/) — Stata Commands for Impact Evaluations
+  - [Ietoolkit](https://worldbank.github.io/ietoolkit/). Stata Commands for Impact Evaluations
   - [Stata-IE-Visual-Library](https://worldbank.github.io/Stata-IE-Visual-Library/)
 - [IPA's GitHub page](https://github.com/PovertyAction)
 - [Convert dynamic Markdown documents to HTML with dyndoc](https://www.stata.com/new-in-stata/markdown/)
@@ -128,7 +128,7 @@
 - [Stata Cheatsheets](https://geocenter.github.io/StataTraining/portfolio/01_resource/) 
 - [Dictionary: Stata to R](https://github.com/EconometricsBySimulation/RStata/wiki/Dictionary:-Stata-to-R)
 - [The Stata Lasso Page](https://statalasso.github.io/slides/)
-- [reghdfe](http://scorreia.com/software/reghdfe/) -- Linear Models With Many Levels of Fixed Effects
+- [reghdfe](http://scorreia.com/software/reghdfe/). Linear Models With Many Levels of Fixed Effects
 
 ----------
 **LaTeX**
@@ -152,7 +152,7 @@ Introduction to LATEX 2ε](https://tobi.oetiker.ch/lshort/lshort.pdf) by *Tobias
   - [Development Impact](http://blogs.worldbank.org/impactevaluations/)
   - [R-Bloggers](https://www.r-bloggers.com/)
   - [Yihui Xie's blog](https://yihui.name/en/)
-  - [Running Randomized Evaluations](http://runningres.com/) — Rachel Glennerster's blog 
+  - [Running Randomized Evaluations](http://runningres.com/), Rachel Glennerster's blog 
 - **Podcasts**
   - [Not so standard deviations](http://nssdeviations.com/) 
   - [Data Stories](http://datastori.es)
@@ -175,7 +175,7 @@ Introduction to LATEX 2ε](https://tobi.oetiker.ch/lshort/lshort.pdf) by *Tobias
 
 ## 4. Other (Uncategorized)
 
-- [Declaring and diagnosing research designs](https://blogs.worldbank.org/impactevaluations/declaring-and-diagnosing-research-designs). See the [website](https://declaredesign.org/) — "DeclareDesign is an R package full of tools to help researchers “declare” and “diagnose” designs before implementing them."
+- [Declaring and diagnosing research designs](https://blogs.worldbank.org/impactevaluations/declaring-and-diagnosing-research-designs). See the [website](https://declaredesign.org/) "DeclareDesign is an R package full of tools to help researchers “declare” and “diagnose” designs before implementing them."
 - Build regular expressions interactively with [RegEXr](https://regexr.com/)  
 - ["Packaging data analytical work reproducibly using R (and friends)"](https://peerj.com/preprints/3192/) in *PeerJ Preprints*
 - ["Prime Hints For Running A Data Project In R"](https://kkulma.github.io/2018-03-18-Prime-Hints-for-Running-a-data-project-in-R/) by *Kasia Kulma*
