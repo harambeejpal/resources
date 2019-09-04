@@ -202,5 +202,5 @@ Applications"](http://web.cs.ucla.edu/~kaoru/primer-ch4.pdf)
 - ["Empirica"](https://empirica.ly) --- to look into
 - ["xaringan"](https://github.com/yihui/xaringan) --- alternative way of generating slides in R
 - ["Webshot"](https://github.com/wch/webshot) "makes it easy to take screenshots of web pages from R"
-- ["diffobj - Diffs for R Objects"] "Generate a colorized diff of two R objects for an intuitive visualization of their differences."
+- ["diffobj - Diffs for R Objects"](https://github.com/brodieG/diffobj) "Generate a colorized diff of two R objects for an intuitive visualization of their differences."
 
