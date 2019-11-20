@@ -205,3 +205,13 @@ Applications"](http://web.cs.ucla.edu/~kaoru/primer-ch4.pdf)
 - ["diffobj - Diffs for R Objects"](https://github.com/brodieG/diffobj) --- "Generate a colorized diff of two R objects for an intuitive visualization of their differences."
 - ["Print SurveyCTO"](http://ppp.pma2020.org)
 
+-------------
+
+## 5. Tables and other things in R
+- [DiagrammeR](https://rich-iannone.github.io/DiagrammeR/index.html)
+- [reactable](https://github.com/glin/reactable) or [here](https://glin.github.io/reactable/index.html)
+- ["How to make beautiful tables in R"](https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/)
+- ["Create Awesome HTML Table with knitr::kable and kableExtra"](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html)
+
+
+
