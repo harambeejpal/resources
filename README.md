@@ -73,8 +73,7 @@ Introduction to LATEX 2ε*](https://tobi.oetiker.ch/lshort/lshort.pdf) by Tobias
 - Using Google Forms and R with the [googlesheets and googleformr packages](https://github.com/jennybc/googlesheets#what-the-hell-do-i-do-with-this)
 - [formr](https://formr.org)
 - [Ona](https://ona.io/home/)  
-(https://marketingplatform.google.com/about/data-studio/)
-  - [Octoparse](https://www.octoparse.com/) (webscraping, no programming required)
+- [Octoparse](https://www.octoparse.com/) (webscraping, no programming required)
 
 ## R
 - [Install base R](https://www.r-project.org/); then
