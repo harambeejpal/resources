@@ -2,7 +2,7 @@
 > Wim Louw
 
 ## workflow
-- [*The Plain Person’s Guide to Plain Text Social Science*]([http://plain-text.co/](http://plain-text.co/)) by Kieran Healy^[http://kieranhealy.org]
+- [*The Plain Person’s Guide to Plain Text Social Science*](http://plain-text.co/) by Kieran Healy^[http://kieranhealy.org]
 - [*Good enough practices in scientific computing*](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510) by Greg Wilson, Jennifer Bryan, and others
 - ["The workflowr R package: A framework for reproducible and collaborative data science"](https://jdblischak.github.io/workflowr/), slides [here](https://speakerdeck.com/jdblischak/the-workflowr-r-package-a-framework-for-reproducible-and-collaborative-data-science?slide=25) from John Blischak's useR! 2018 talk
 - [*RMarkdown Driven Development*](https://emilyriederer.netlify.com/post/rmarkdown-driven-development/) by Emily Riederer
@@ -19,7 +19,7 @@
 - [Graphviz and DiagrammeR](https://rich-iannone.github.io/DiagrammeR/index.html)
 - [Miro](https://miro.com/)
 - [DAGitty - drawing and analyzing causal diagrams (DAGs)](http://www.dagitty.net/)
-- [Patchwork](https://github.com/thomasp85/patchwork) (R)
+- [Patchwork](https://github.com/thomasp85/patchwork) (in R)
 
 ## spreadsheets
 - [*Data organization in spreadsheets*](https://peerj.com/preprints/3183/)^[https://peerj.com/collections/50-practicaldatascistats/] by Karl W Broman, Kara H. Woo
@@ -174,6 +174,6 @@ Applications"](http://web.cs.ucla.edu/~kaoru/primer-ch4.pdf) by Judea Pearl, Mad
 - Build regular expressions interactively with [RegEXr](https://regexr.com/)  
 - [*Packaging data analytical work reproducibly using R (and friends)*"](https://peerj.com/preprints/3192/) in PeerJ Preprints
 - [*Prime Hints For Running A Data Project In R*](https://kkulma.github.io/2018-03-18-Prime-Hints-for-Running-a-data-project-in-R/) by Kasia Kulma
-- I came across this interesting post on "[Manager READMEs](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)", where a bunch of managers at tech companies lay out their styles to direct reports
-- A  [short blog post](https://mrisdal.github.io/blog/posts/reflections-on-stack-overflow/) by Megan Risdal, reflecting on her time as a product leader at Stack Overflow
-- This book draft "[Shape Up](https://basecamp.com/shapeup)", written by basecamp product developers "[...] is for product development teams who struggle to shape, build, and ship. Written by the innovators behind Basecamp—one of the biggest and longest-running software as a service apps—the book gives teams language and specific techniques to address the risks and unknowns at each stage of the product development process"
+-  I came across this interesting post on "[Manager READMEs](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)", where a bunch of managers at tech companies lay out their styles to direct reports
+-  A  [short blog post](https://mrisdal.github.io/blog/posts/reflections-on-stack-overflow/) by Megan Risdal, reflecting on her time as a product leader at Stack Overflow
+-  This book draft "[Shape Up](https://basecamp.com/shapeup)", written by basecamp product developers "[...] is for product development teams who struggle to shape, build, and ship. Written by the innovators behind Basecamp—one of the biggest and longest-running software as a service apps—the book gives teams language and specific techniques to address the risks and unknowns at each stage of the product development process"
