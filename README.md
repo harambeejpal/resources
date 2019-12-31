@@ -14,11 +14,12 @@
 - Coming soon: J-PAL research resources, collection topic-specific articles 
 - [Setting up a data science “stack" full instructions + resources](https://ubc-mds.github.io/resources_pages/installation_instructions/) from the University of British Columbia’s Master of Data Science program. Great set-up guide! (git, pandoc, LaTeX, Make, Docker, R, &c., &c.)
 
-
-## diagrams, charts
-- [nomnoml](http://www.nomnoml.com), "...a tool for drawing UML diagrams," in browser
+## diagrams, charts, images
+- [nomnoml](http://www.nomnoml.com), "...a tool for drawing UML diagrams" (in browser)
 - [Graphviz and DiagrammeR](https://rich-iannone.github.io/DiagrammeR/index.html)
 - [Miro]([https://miro.com/)
+- [DAGitty - drawing and analyzing causal diagrams (DAGs)](http://www.dagitty.net/)
+- [Patchwork](https://github.com/thomasp85/patchwork) (R)
 
 ## spreadsheets
 - [*Data organization in spreadsheets*](https://peerj.com/preprints/3183/)^[https://peerj.com/collections/50-practicaldatascistats/] by Karl W Broman, Kara H. Woo
@@ -159,6 +160,7 @@ Introduction to LATEX 2ε*](https://tobi.oetiker.ch/lshort/lshort.pdf) by Tobias
 - [Data Stories](http://datastori.es)
 - [Becoming a data-scientist podcast](https://www.becomingadatascientist.com/category/podcast/) 
 - [Credibly Curious](https://soundcloud.com/crediblycurious)
+- [Casual inference](http://casualinfer.libsyn.com/)
 
 ## causal inference
 - ["PRIMER", Chapter 4: "Counterfactuals and Their
@@ -172,3 +174,6 @@ Applications"](http://web.cs.ucla.edu/~kaoru/primer-ch4.pdf) by Judea Pearl, Mad
 - Build regular expressions interactively with [RegEXr](https://regexr.com/)  
 - [*Packaging data analytical work reproducibly using R (and friends)*"](https://peerj.com/preprints/3192/) in PeerJ Preprints
 - [*Prime Hints For Running A Data Project In R*](https://kkulma.github.io/2018-03-18-Prime-Hints-for-Running-a-data-project-in-R/) by Kasia Kulma
+- I came across this interesting post on "[Manager READMEs](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)", where a bunch of managers at tech companies lay out their styles to direct reports
+- A  [short blog post](https://mrisdal.github.io/blog/posts/reflections-on-stack-overflow/) by Megan Risdal, reflecting on her time as a product leader at Stack Overflow
+- This book draft "[Shape Up](https://basecamp.com/shapeup)", written by basecamp product developers "_[...] is for product development teams who struggle to shape, build, and ship. Written by the innovators behind Basecamp—one of the biggest and longest-running software as a service apps—the book gives teams language and specific techniques to address the risks and unknowns at each stage of the product development process"
